@@ -1,3 +1,5 @@
+Projects carried out while doing internship under AMTRON, Assam.
+
 ### Project #1
 
 To get Temperature and Humidity data from the DHT 11 sensor.
