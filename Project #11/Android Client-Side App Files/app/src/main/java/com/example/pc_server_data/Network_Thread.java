@@ -28,7 +28,7 @@ public class Network_Thread extends Thread{
         this.TIME = TIME;
         this.TEMP = TEMP;
         this.HUMIDITY = HUMIDITY;
-        this.server_ip = "192.168.255.254";
+        this.server_ip = "192.168.225.254";
         this.msg = "";
         this.data = new String[10];
     }

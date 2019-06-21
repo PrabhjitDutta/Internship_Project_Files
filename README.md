@@ -43,3 +43,7 @@ To display Temperature and Humidity data on Android Application with client-serv
 ### Project #11
 
 To receive Temperature and Humidity data form multiple devices connected with DHT 11 sensor in a single server (On the Same Local Area Network) and store that data in a database in the Server Machine. Then use that database to show the latest data in a local server as well as in multiple Android devices connected on the same Local Area Network.
+
+### Project #12
+
+To store Temperature and Humidity data form multiple devices connected with DHT 11 sensor in a cloud database. Then use that database to show the latest data in a webpage as well as in multiple Android devices.
