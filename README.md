@@ -26,11 +26,11 @@ To Build and Program a Sensor Integrated Multi-Purpose Alarm Clock.
 
 ### Project #7
 
-To Write and Program a Sensor Integrated Multi-Purpose Alarm Clock.
+Server-Client Message Passing through sockets.
 
 ### Project #8
 
-To Write and Program a Sensor Integrated Multi-Purpose Alarm Clock.
+Server-Client File Transfer through sockets.
 
 ### Project #9
 
